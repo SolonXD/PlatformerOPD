@@ -1,0 +1,12 @@
+ P                                       m                n             1                                                C                               C
+ TTTT                 C                  TTTTT    TTTT C TTT           TTTT          n                                 TTTTT           C               TTTTTT
+                    TTTTT                 BBB         TT              BB   B    C  TTTTTTT                                          TTTT 3                      c                         G
+                             C c                                                BBBBBBBBBBBBB                C       C                BBBBBB      C            TTTTT                    TTTT
+                            TTTTTT  T2T                           TTT          CBBBBBB                C    TTTTTT1 TTTT                        TTTTTT         BBBBBBB                   
+                 v          BBBBBB  BBB                  3   C             B   BBBB            TTT   TTT    BBBBBBB          TT  TT           BBBBBBBB           BBBBBB   TTTT  C       
+               TTTT   TTTT                              TTTTTT             BB  BB             BBBB   BBBB                   BB m BB                                        BBBBBB  TTTT
+     C        BBBB    BBBB                   3        TTTBBBBBTTT           B  BBBB            BBB 3 BBB                      BBB
+     TTTT C     BBB 1  BB                    TTTTT                         BB m BB                BBB
+     BBBBTTTT     BBBBB                    BBBBBB                           BBBBB
+
+

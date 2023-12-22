@@ -9,11 +9,13 @@ pygame.init()
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 main_menu_background = pygame.image.load("assets/main_menu_background/main_menu_background.png")
 
+start_button_img = pygame.image.load("assets/menu_buttons/start_game_button.png")
+start_button = Button(120, 200, start_button_img, 1.4, screen, choose_level_menu)
+about_button_img = pygame.image.load("assets/menu_buttons/about_us_button.png")
+about_button = Button(120, 300, about_button_img, 1.4, screen, about_us)
+quit_button_img = pygame.image.load("assets/menu_buttons/quit_button.png")
+exit_button = Button(120, 400, quit_button_img, 1.4, screen, pygame.QUIT)
 
-start_img = pygame.image.load("assets/menu_buttons/MenuButton.png")
-start_button = Button(80, 100, start_img, 0.1, screen, choose_level_menu)
-about_button = Button(80, 200, start_img, 0.1, screen, about_us)
-exit_button = Button(80, 300, start_img, 0.1, screen, pygame.QUIT)
 
 def main():
     pygame.display.set_caption("Game")

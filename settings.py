@@ -1,14 +1,6 @@
-world_map = [
-    '                                                                  ',
-    '                                                                  ',
-    '                t  t                                              ',
-    '        X     XXXXXXXXXs                   XX   X                 ',
-    ' tXXXt     XX         XX                XXXX tt XX                ',
-    ' XX XX                                      XXXXX                 ',
-    '          Xt    t           t  t   X                            G ',
-    '        XXXXXX  XXXXs    XXXXXXXXXXX  XX              tt t     XXX',
-    ' P   XX  X XX X  X XXXt     X XX  XX  XXX  XXXXXXXXs  XXXXXX      ',
-    'XXXXXXX  X  X X  X  XXXXXXXXX XX  XX  XXX  XX XX XXXXXXX  X       ']
-tile_size = 50
+world_map = []
+tile_size = 60
 WIDTH = 1024
 HEIGHT = 600
+player_size_x = 60
+player_size_y = 100
