@@ -5,7 +5,6 @@ pygame.init()
 
 
 def about_us():
-    pygame.display.set_caption("Game")
     pygame.display.flip()
     screen2 = pygame.display.set_mode((WIDTH, HEIGHT))
     about_us_background = pygame.image.load("assets/about_us_background/about_us_background.png")
